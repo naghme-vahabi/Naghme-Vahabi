@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I'm Naghme Vahabi
+I am a passionate software engineer with a focus on C# and ASP.NET Core development. With a keen eye for detail and a strong drive to deliver high-quality solutions, I strive to create efficient, scalable, and user-friendly applications.
 
+📫 How to reach me: Naghme.vahabi94@gmail.com
 <!--
 **naghme-vahabi/naghme-vahabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
